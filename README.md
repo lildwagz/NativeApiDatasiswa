@@ -15,7 +15,7 @@ there are some basic CRUD that are include to this project such as create, updat
 <img src="https://github.com/lildwagz/NativeApiDatasiswa/blob/main/pictures/update_siswa.PNG"/>
 
 ## module for listing all of stundets based on grade
-<img src="https://github.com/lildwagz/NativeApiDatasiswa/blob/main/pictures/list_siswa.PNG"/>
+<img src="https://github.com/lildwagz/NativeApiDatasiswa/blob/main/pictures/list_datasiwa.PNG"/>
 
 
 
